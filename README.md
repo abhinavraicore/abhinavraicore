@@ -1,13 +1,12 @@
 <h1 align="center">💫 Hi 👋, I'm Abhinav Rai</h1>
-<h3 align="center">B.Tech 3rd Year Student || Software Developer || Tech Enthusiast</h3>
+<h3 align="center">B.Tech Year Student || Software Developer || Tech Enthusiast</h3>
 
 
 I am a passionate developer currently in my junior year of Engineering. I love building things that live on the internet and solving complex problems with code.
 
 
 ### 🌱 What I'm up to:
-- 🎓 **Pursuing:** B.Tech CSE (3rd Year) at SRMIST.
-- 🔭 **Working on:** [Medical Chartbot.]
+- 🎓 **Pursuing:** B.Tech CSE student at SRMIST.
 - 🌱 **Learning:** Data Structures & Algorithms and Cloud Computing.
 - 💬 **Ask me about:** C++,Java, Web Development, or why I love Engineering.
 ---
@@ -16,7 +15,7 @@ I am a passionate developer currently in my junior year of Engineering. I love b
 "I spend 10% of my time writing code and 90% of my time wondering why it's not working (and then finding the missing semicolon)."
 
 
-Email Me 👉 ✉️ **inspiringabhi15@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **abhinavrai1506@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 
 ## 🌐 Socials:
