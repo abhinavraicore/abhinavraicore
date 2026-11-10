@@ -1,5 +1,5 @@
 <h1 align="center">💫 Hi 👋, I'm Abhinav Rai</h1>
-<h3 align="center">B.Tech Year Student || Software Developer || Tech Enthusiast</h3>
+<h3 align="center">B.Tech Student || Software Developer || Tech Enthusiast</h3>
 
 
 I am a passionate developer currently in my junior year of Engineering. I love building things that live on the internet and solving complex problems with code.
